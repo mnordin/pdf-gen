@@ -1,0 +1,13 @@
+header, .main, footer {
+  margin: 100px;
+}
+
+// header top margin needs a bit encouragement
+header {
+  padding-top: 100px;
+}
+
+footer {
+  position: absolute;
+  margin-bottom: 0;
+}

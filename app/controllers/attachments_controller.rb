@@ -1,4 +1,6 @@
 class AttachmentsController < ApplicationController
+  layout 'pdf'
+
   def show
     respond_to do |format|
       format.html
