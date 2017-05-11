@@ -7,7 +7,11 @@ header {
   padding-top: 100px;
 }
 
-footer {
-  position: absolute;
-  margin-bottom: 0;
+.company-information {
+  float: left;
+  width: 20%;
+  dd {
+    clear: left;
+    margin-left: 0;
+  }
 }
